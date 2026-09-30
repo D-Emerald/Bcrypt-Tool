@@ -75,7 +75,7 @@ Use the following MD5 checksum to verify the downloaded `Bcrypt-Tool.zip` file:
 ```text
 FABF00ABA391993146591B465F934EE8
 ```
-(images/md5-hash.png)
+![MD5 checksum for Bcrypt-Tool.zip](images/md5-hash.png)
 
 ### Option 2: Run from Source
 
